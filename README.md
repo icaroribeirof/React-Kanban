@@ -1,3 +1,4 @@
 # React-Kanban
 
-Primeiro projeto desenvovido utilizando o React.
+Projeto Kanban desenvovido em React.
+Para a ter uma melhor visualização acesse: https://gvltfr.csb.app/
