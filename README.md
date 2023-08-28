@@ -1,2 +1,3 @@
 # React-Kanban
-Created with CodeSandbox
+
+Primeiro projeto desenvovido utilizando o React.
